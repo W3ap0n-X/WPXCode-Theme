@@ -1,0 +1,21 @@
+{
+    "name": "wpx-code",
+    "displayName": "WPX-Code",
+    "description": "Weapon-X Color theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "WPX-Code Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/WPX-Code Theme-color-theme.json"
+            }
+        ]
+    }
+}
